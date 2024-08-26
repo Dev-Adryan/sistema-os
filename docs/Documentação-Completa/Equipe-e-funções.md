@@ -12,7 +12,7 @@ slug: /equipe-funcoes
 |-------|---------|-------|
 | PM    | Thailan | ---   |
 | TL    | Marcelo | ---   |
-| TA    | Yasmin  | ---   |
+| PA    | Yasmin  | ---   |
 | TM    | Larissa | ---   |
 | TM    | Thialy  | ---   |
 | TM    | Adryan  | ---   |
