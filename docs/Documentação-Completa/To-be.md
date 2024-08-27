@@ -5,3 +5,6 @@ title: Fluxograma TO-BE
 description: Fluxograma de como vai funcionar o sistema.
 slug: /to-be
 ---
+
+
+![Fluxograma TO-BE](./img/TO-BE.png)
