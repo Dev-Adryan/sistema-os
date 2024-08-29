@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br'],
   },
 
   presets: [
@@ -72,21 +72,14 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-
-          /*{
-          to: '/documentacao', // URL da página
-          label: 'Documentação', // Texto no menu
-          position: 'left', // Posição no menu
-        },*/
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Documentação',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Dev-Adryan/sistema-os',
           label: 'GitHub',
           position: 'right',
         },
@@ -96,46 +89,59 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Product Manager',
           items: [
             {
-              label: 'Tutorial',
+              label: 'João Thailan',
+              to: 'https://github.com/ThailanSousa',
+            },
+            {
+              label: 'Cayo Felipe',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Front-end Team',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Amanda Lais',
+              to: 'https://github.com/Amandalais',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Marcelo Arruda',
+              to: 'https://github.com/MarceluzOne',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Back-End Team',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Thialy Sthefany',
+              href: 'https://github.com/thialylima',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Larissa Oliveira',
+              href: 'https://github.com/2002Larissa',
+            },
+          ],
+        },
+        {
+          title: 'Data Team',
+          items: [
+            {
+              label: 'Yasmmim Camily',
+              to: 'https://github.com/Yasmim-lira',
+            },
+            {
+              label: 'Adryan Rian',
+              href: 'https://github.com/Dev-Adryan',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 5º Período S.I Unifacol <br> Powered By: Docusaurus`,
     },
     prism: {
       theme: prismThemes.github,
