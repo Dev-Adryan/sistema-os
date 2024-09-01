@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 id: Equipe e Funções
 title: Equipe e Funções
 description: Responsáveis técnicos por cada etapa do projeto.
