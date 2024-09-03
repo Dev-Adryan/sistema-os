@@ -92,7 +92,7 @@ const config: Config = {
           title: 'Product Manager',
           items: [
             {
-              label: 'João Thailan',
+              label: 'Thailan Sousa',
               to: 'https://github.com/ThailanSousa',
             },
             {
@@ -118,7 +118,7 @@ const config: Config = {
           title: 'Back-End Team',
           items: [
             {
-              label: 'Thialy Sthefany',
+              label: 'Thialy Lima',
               href: 'https://github.com/thialylima',
             },
             {
@@ -131,7 +131,7 @@ const config: Config = {
           title: 'Data Team',
           items: [
             {
-              label: 'Yasmmim Camily',
+              label: 'Yasmim Lira',
               to: 'https://github.com/Yasmim-lira',
             },
             {
