@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: Dores
 title: Dores e Justificativas
-description: Identidicação das dificuldades do processo atual.
+description: Identificação das dificuldades do processo atual.
 slug: /dores
 ---
 
