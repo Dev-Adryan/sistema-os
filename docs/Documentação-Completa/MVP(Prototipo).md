@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 id: MVP - Protótipo do Produto
 title: Protótipo do Produto
 description: Visão prévia do produto que será feito.
