@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 id: backlog
 title: Backlog
 description: Atividades até a entrega do MVP.
@@ -27,3 +27,7 @@ slug: /backlog
 ## Sprint 3
 
 1. MVP
+
+
+
+
