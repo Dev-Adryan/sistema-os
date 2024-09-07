@@ -19,7 +19,7 @@ slug: /equipe-funcoes
 | TM    | Amanda  |
 
 
-# Composição da Squad para o Projeto ENADE
+# Composição da Squad para o Projeto
 
 1. **Project Manager (PM)**:
    - **Nome**: João Thailan

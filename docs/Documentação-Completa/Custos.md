@@ -6,7 +6,7 @@ description: Todos os custos envolvidos para a entrega do projeto.
 slug: /custos
 ---
 
-# Análise de Custos do Projeto ENADE
+# Análise de Custos do Projeto
 
 1. **Custos de Desenvolvimento**
    - **Ferramentas e Tecnologias**:

@@ -2,12 +2,12 @@
 sidebar_position: 8
 id: restricoes
 title: Restrições
-description: Limitações na contrusção do sistema.
+description: Limitações na contrução do sistema.
 slug: /restricoes
 ---
 
 
-# Restrições do Projeto ENADE
+# Restrições do Sistema
 
 1. **Restrições Financeiras**:
    - O projeto deve ser desenvolvido utilizando apenas ferramentas e recursos gratuitos O uso de bibliotecas open-source para o desenvolvimento, e a utilização de ferramentas de design gratuitas (como Figma na versão gratuita).

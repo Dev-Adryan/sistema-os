@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Proposta realizada com AngularJs, TypeScript e Tailwind para elemetos de iteração com usuário
+        Proposta realizada com AngularJs, TypeScript e Tailwind para elemetos de interação com usuário.
       </>
     ),
   },

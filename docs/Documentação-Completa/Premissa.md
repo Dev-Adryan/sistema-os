@@ -6,7 +6,7 @@ description:  Pontos relevantes no sistema.
 slug: /premissas
 ---
 
-# Premissas do Projeto ENADE
+# Premissas do Sistema
 
 1. **Utilização de Ferramentas Open Source**:
    - Todo o desenvolvimento do projeto será feito utilizando ferramentas e recursos open source. A premissa é que essas ferramentas serão suficientes para atender às necessidades do projeto sem custos adicionais.
