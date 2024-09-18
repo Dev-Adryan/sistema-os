@@ -1,16 +1,15 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 id: Dores
 title: Dores e Justificativas
 description: Identificação das dificuldades do processo atual.
 slug: /dores
 ---
 
-# Dores e Justificativas
 
-# O que é o projeto?
 
-O projeto será desenvolvido com o objetivo de otimizar a logística das ordens de serviço, proporcionando maior agilidade, organização e segurança em todo o processo. O sistema incluirá diversas funcionalidades, como a centralização das informações das ordens de serviço, o armazenamento seguro desses dados em um banco de dados, juntamente com uma foto do produto, além de facilitar a consulta e a gestão dos produtos, entre outras aplicações.
+
+
 
 # Dores Identificadas
 
@@ -60,8 +59,6 @@ Essas dores revelam a necessidade de uma solução que automatize e agilize proc
 
 ---
 
-# AS-IS
 
-![Fluxograma AS-IS](./img/AS-IS.jpg)
 
 

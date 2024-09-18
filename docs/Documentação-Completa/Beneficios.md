@@ -6,7 +6,7 @@ description: Os principais benefícios do projeto.
 slug: /beneficios
 ---
 
-## 1. Dificuldade na Rastreabilidade de Equipamentos
+## 1. Melhora na Rastreabilidade de Equipamentos
 
 **Desafio:** Há problemas em rastrear equipamentos, especialmente quando há itens similares sendo registrados ao mesmo tempo. Isso pode levar à confusão sobre a identificação correta do cliente e do equipamento.
 
@@ -14,7 +14,7 @@ slug: /beneficios
 
 ---
 
-## 2. Divergência de Informações
+## 2. Informações facilitadas
 
 **Desafio:** Existem riscos de registrar informações incorretas ou divergentes, como códigos de clientes ou descrições de equipamentos, especialmente quando a entrada é feita manualmente.
 
@@ -22,7 +22,7 @@ slug: /beneficios
 
 ---
 
-## 3. Processo de Entrada Manual e Ineficiente
+## 3. Processo mais ágil e automatizado
 
 **Desafio:** O atual processo de entrada de equipamentos é manual, envolvendo o preenchimento de formulários à mão, o que é demorado e propenso a erros.
 
@@ -30,7 +30,7 @@ slug: /beneficios
 
 ---
 
-## 4. Risco de Exposição de Informações Confidenciais
+## 4. Maior segurança nas informações
 
 **Desafio:** Existe uma preocupação com a segurança das informações, especialmente no que diz respeito à exposição de dados de clientes e outras informações sensíveis.
 
@@ -38,7 +38,7 @@ slug: /beneficios
 
 ---
 
-## 5. Falta de Automatização na Prioridade de Equipamentos
+## 5. Automatização na Prioridade de Equipamentos
 
 **Desafio:** A identificação e priorização dos equipamentos na entrada não é automatizada, o que retarda o processo de triagem e atendimento.
 
@@ -46,7 +46,7 @@ slug: /beneficios
 
 ---
 
-## 6. Dependência de Uma Pessoa para Realizar o Cadastro
+## 6. Divisão nas funções de registrar
 
 **Desafio:** Apenas uma pessoa é responsável por registrar os equipamentos, o que pode ser um gargalo no processo e causar atrasos.
 
@@ -62,7 +62,7 @@ slug: /beneficios
 
 ---
 
-## 8. Ausência de Automação na Geração de Documentos e Etiquetas
+## 8. Automação na Geração de Documentos e Etiquetas
 
 **Desafio:** Atualmente, a geração de etiquetas e recibos é manual, o que poderia ser automatizado para ganhar tempo e reduzir erros.
 
